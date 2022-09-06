@@ -1,4 +1,5 @@
 % This file stores hard coded paths and configuration variables
+% commit to main
 % Use getConfigValue(varname) to access a value, e.g. 
 % getConfigValue('PMTKsupportLink')
 % If a config-local.txt file is found, its values will override these.
